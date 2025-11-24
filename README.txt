@@ -10,9 +10,8 @@ The goal is simple: survive as long as possible and maximize your score.
 
 ## 🎮 Gameplay Preview
 
-![Gameplay GIF](./gameplay.gif)
+![Gameplay GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
-*(Replace `gameplay.gif` with your actual GIF file name once you upload it.)*
 
 ## Features
 
