@@ -36,5 +36,5 @@ Or open the project in an IDE with JavaFX configured and run `AngryFlappyBird`.
 
 ## Contributors
 
-Anh Nguyen, Eris Nguyen, Farzana Chowdhury
+Farzana Chowdhury, Anh Nguyen, Eris Nguyen
 
