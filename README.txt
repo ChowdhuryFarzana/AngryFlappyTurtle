@@ -1,40 +1,65 @@
-=== AngryFlappy Turtle Game ==
+# AngryFlappy Turtle Game
 
-Contributors : Anh Nguyen, Eris Nguyen, Farzana Chowdhury
+Contributors: Anh Nguyen, Eris Nguyen, Farzana Chowdhury
 
-## Description 
+## Overview
 
-This program implements a Angry Flappy Turtle game, featuring a turtle navigating through obstacles. It's built using Java and JavaFX.
+AngryFlappy Turtle is a Java/JavaFX game inspired by classic flappy-style mechanics.  
+You control a determined little turtle navigating an underwater world filled with obstacles, sharks, and collectible sea shells.  
+The goal is simple: survive as long as possible and maximize your score.
+
+## 🎮 Gameplay Preview
+
+![Gameplay GIF](./gameplay.gif)
+
+*(Replace `gameplay.gif` with your actual GIF file name once you upload it.)*
+
+## Features
+
+- Smooth flappy-style movement using mouse clicks  
+- Multiple difficulty levels (easy, medium, hard)  
+- Collision detection with pipes, sharks, and the ocean floor  
+- Sea shell collectibles for bonus points  
+- Pearl item that activates temporary autopilot mode  
+- Sprite animations and sound effects through JavaFX  
+- Clean UI and responsive animation loop
 
 ## Getting Started
 
-To run the game, ensure you have Java installed. Compile and execute the "AngryFlappyBird.java" file.
-
-## Game play
-
-- Use mouse clicks to control the turtle's movement in the "Start game!" button.
-- Avoid collisions with the floor, columns, and sharks.
-- Collect sea shells for bonus points and activate autopilot mode with the seashell pearl.
-
-## Code Structure
-
-The program consists of three main files, we have worked on two files:
-- "AngryFlappyBird.java": Contains the game logic, UI setup, animation, collision detection, and difficulty levels.
-- "Defines.java": Defines constants, handles images, sound effects, and initializes scene elements.
-
-## Requirements
-
+### Requirements
 - Java Development Kit (JDK)
-- JavaFX
+- JavaFX SDK
+
+### Running the Game
+
+Compile and run the main file:
+javac AngryFlappyBird.java
+java AngryFlappyBird
+
+
+Or run through an IDE such as IntelliJ, Eclipse, or VS Code with JavaFX support.
 
 ## How to Play
 
-1. Run the program.
-2. Choose difficulty levels - easy, medium, or hard.
-3. Click the "Start game!" button to begin.
-4. Control the turtle's movement by clicking the mouse.
-5. Collect sea shells for extra points and experience autopilot mode with the sea shell pearl.
+1. Launch the program.  
+2. Select your preferred difficulty.  
+3. Press **“Start game!”** to begin.  
+4. Click the mouse to make the turtle rise.  
+5. Avoid all obstacles and the ocean floor.  
+6. Collect sea shells for points.  
+7. Grab the pearl to activate autopilot mode.  
+
+Try to last as long as possible and beat your high score!
+
+## Code Structure
+
+- **AngryFlappyBird.java**  
+  Core game logic, UI layout, animation loop, collision detection, scoring, and difficulty settings.
+
+- **Defines.java**  
+  Holds constants, image/sound asset paths, environment configuration, and resource initialization.
 
 ## Acknowledgments
 
-This program uses JavaFX for its graphical interface and media handling.
+This project uses **JavaFX** for animation, UI rendering, and media playback.  
+Thanks to all resources, tools, and instructors who supported the development of this project.
