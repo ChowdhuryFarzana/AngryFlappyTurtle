@@ -1,4 +1,4 @@
-![Flappy Turtle](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
+![Turtle GIF](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
 
 # AngryFlappy Turtle Game
 
