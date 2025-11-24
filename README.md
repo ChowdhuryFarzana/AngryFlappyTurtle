@@ -23,4 +23,18 @@ Compile and run the main file from the terminal:
 ```bash
 javac AngryFlappyBird.java
 java AngryFlappyBird
+```
+
+Or open the project in an IDE with JavaFX configured and run `AngryFlappyBird`.
+
+## Controls
+
+- Click to make the turtle swim upward  
+- Avoid all obstacles and the floor  
+- Collect shells for extra points  
+- Grab the pearl for autopilot  
+
+## Contributors
+
+Anh Nguyen, Eris Nguyen, Farzana Chowdhury
 
